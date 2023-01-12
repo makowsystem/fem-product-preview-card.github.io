@@ -130,6 +130,9 @@ main {
 
 .product__btn-cart {
 	background-color: var(--clr-primary1);
+	font-family: var(--ff-montserrat);
+	font-weight: var(--fw-bold);
+	font-size: 14px;
 	color: var(--clr-neutral3);
 	cursor: pointer;
   text-decoration: none;
